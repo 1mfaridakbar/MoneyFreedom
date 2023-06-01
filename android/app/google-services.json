@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "417563716591",
+    "firebase_url": "https://ndattempt-af437-default-rtdb.firebaseio.com",
+    "project_id": "ndattempt-af437",
+    "storage_bucket": "ndattempt-af437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417563716591:android:97f9b430a7d8a88216641a",
+        "android_client_info": {
+          "package_name": "com.example.moneyfreedom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417563716591-f4c7gki3mi79s8oqn6uk61v69pel04g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoYlgBn73CqyTKggh98mX-HobjF2J77Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417563716591-f4c7gki3mi79s8oqn6uk61v69pel04g7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417563716591-dlmug07tm5nlea4q4g8ibbir3nkf0cnk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moneyfreedom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
